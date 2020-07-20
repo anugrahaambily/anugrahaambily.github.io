@@ -3,25 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://anugrahaambily.github.i0/about/</loc>
+    <loc>https://anugrahaambily.github.io/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://anugrahaambily.github.i0/</loc>
+    <loc>https://anugrahaambily.github.io/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://anugrahaambily.github.i0/designs/</loc>
+    <loc>https://anugrahaambily.github.io/designs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://anugrahaambily.github.i0/techs/</loc>
+    <loc>https://anugrahaambily.github.io/techs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
