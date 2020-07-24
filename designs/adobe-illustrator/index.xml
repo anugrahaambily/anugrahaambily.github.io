@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adobe Illustrator on Anugraha A</title>
+    <link>https://anugrahaambily.github.io/designs/adobe-illustrator/</link>
+    <description>Recent content in Adobe Illustrator on Anugraha A</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Anugraha</copyright>
+    
+	<atom:link href="https://anugrahaambily.github.io/designs/adobe-illustrator/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A tale of water treatment</title>
+      <link>https://anugrahaambily.github.io/portfolio/tale-of-water-treatment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anugrahaambily.github.io/portfolio/tale-of-water-treatment/</guid>
+      <description>This work is my first try with comics. In this project we developed a system which produces Hydrogen Peroxide through Oxygen Reduction Reaction. We used this system for waste water treatment where contaminants with long Carbon chains were broken down and the COD was found to reduce after treatment.</description>
+    </item>
+    
+    <item>
+      <title>Audio Processing</title>
+      <link>https://anugrahaambily.github.io/portfolio/audio-processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anugrahaambily.github.io/portfolio/audio-processing/</guid>
+      <description>This work was prepared as cover for the official website of a PhD student at Queen&amp;rsquo;s Mary University, London. His work is mainly focused on audio processing. Imagine you are standing in the middle of a street in a city. close your eyes= what do you hear? Perhaps car..bus..footsteps..beeps&amp;hellip;human speech&amp;hellip;music &amp;hellip; siren..??Your sense of hearing tells you what is happening around you, without any sense of vision, right?! How do computers/mobile gadgets make sense of these urban sounds - &amp;ldquo;machine listening&amp;rdquo; and then how could we make use of machine listening.</description>
+    </item>
+    
+  </channel>
+</rss>
