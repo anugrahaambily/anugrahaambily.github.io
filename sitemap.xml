@@ -21,6 +21,12 @@
   </url>
   
   <url>
+    <loc>https://anugrahaambily.github.io/designs/adobe-photoshop/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://anugrahaambily.github.io/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -33,7 +39,25 @@
   </url>
   
   <url>
+    <loc>https://anugrahaambily.github.io/portfolio/surface-eng-cover/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://anugrahaambily.github.io/designs/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://anugrahaambily.github.io/designs/inkscape/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://anugrahaambily.github.io/portfolio/insa/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -45,7 +69,25 @@
   </url>
   
   <url>
+    <loc>https://anugrahaambily.github.io/portfolio/cover-quantum/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://anugrahaambily.github.io/portfolio/cu-based-catalyst/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://anugrahaambily.github.io/techs/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://anugrahaambily.github.io/portfolio/toc-hyd-peroxide/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
