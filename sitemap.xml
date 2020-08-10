@@ -9,12 +9,6 @@
   </url>
   
   <url>
-    <loc>https://anugrahaambily.github.io/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://anugrahaambily.github.io/portfolio/tale-of-water-treatment/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -58,6 +52,12 @@
   
   <url>
     <loc>https://anugrahaambily.github.io/designs/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://anugrahaambily.github.io/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
