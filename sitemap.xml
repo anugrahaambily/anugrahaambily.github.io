@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://anugrahaambily.github.io/portfolio/cover-advanced-quantum-tech/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://anugrahaambily.github.io/portfolio/antibiotics/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
