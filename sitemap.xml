@@ -63,7 +63,19 @@
   </url>
   
   <url>
+    <loc>https://anugrahaambily.github.io/portfolio/fog-harvesting-bettle/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://anugrahaambily.github.io/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://anugrahaambily.github.io/designs/illustrator/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
